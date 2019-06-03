@@ -4,4 +4,5 @@ def my_each(words)
        words[n]
        n+=1# code here
 end
+words
 end
