@@ -1,7 +1,7 @@
 def my_each(words)
   n = 0
   while n<words.size
-    yield if block_given?
+    yield(4)
         words[n]
        n+=1# code here
 end
