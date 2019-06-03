@@ -1,8 +1,8 @@
 def my_each(words)
-  counter = 0
-  while counter<words.size
-        words[counter]
-       counter+=1# code here
+  n = 0
+  while n<words.size
+        words[n]
+       n+=1# code here
 end
 words
 end
