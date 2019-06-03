@@ -4,3 +4,4 @@ def my_each # put argument(s) here
     puts
     i+=1# code here
 end
+end
