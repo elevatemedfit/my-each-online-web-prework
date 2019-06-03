@@ -1,4 +1,4 @@
-def my_each(words) |item|
+def my_each(words) 
   n = 0
   while n<words.size
       words[n]
