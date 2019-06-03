@@ -1,7 +1,7 @@
-def my_each(collection)#
+def my_each(words) |item|
   n = 0
-  while n<collection.size
-      collection(n)
+  while n<words.size
+      item(n)
        n+=1# code here
 end
 end
