@@ -1,7 +1,7 @@
 def my_each(collection)#
-  i = 0
-  while i<collection.size
-      collection(i)
-       i+=1# code here
+  n = 0
+  while n<collection.size
+      collection(n)
+       n+=1# code here
 end
 end
